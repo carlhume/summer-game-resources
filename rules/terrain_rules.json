@@ -1,0 +1,8 @@
+{
+	"terrain":
+		[
+			{"type":"P","label":"Plains"},
+			{"type":"M","label":"Mountains"},
+			{"type":"F","label":"Forest"}
+		]
+}
