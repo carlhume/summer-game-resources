@@ -2,21 +2,21 @@
     "id":116,
     "mapData": [
         [
-            {"terrain":{"type":"P"}},
-            {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}},
-            {"terrain":{"type":"P"}},
-            {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}},
-            {"terrain":{"type":"P"}},
-            {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}},
-            {"terrain":{"type":"P"}},
-            {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -27,10 +27,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -41,10 +41,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -55,10 +55,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -69,10 +69,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -83,10 +83,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -97,10 +97,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -111,10 +111,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -125,10 +125,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -139,10 +139,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -153,10 +153,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -167,10 +167,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -181,10 +181,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -195,10 +195,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -209,10 +209,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -223,10 +223,10 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"W"}},
             {"terrain":{"type":"F"}},
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
@@ -237,21 +237,21 @@
             {"terrain":{"type":"M"}},
             {"terrain":{"type":"P"}},
             {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}}
         ],
         [
-            {"terrain":{"type":"P"}},
-            {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}},
-            {"terrain":{"type":"P"}},
-            {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}},
-            {"terrain":{"type":"P"}},
-            {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}},
-            {"terrain":{"type":"P"}},
-            {"terrain":{"type":"F"}},
-            {"terrain":{"type":"M"}}
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}},
+            {"terrain":{"type":"W"}}
         ]
     ]
 }
