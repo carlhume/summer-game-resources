@@ -2,19 +2,19 @@
     "id":113,
     "mapData": [
         [
-            {"terrain":{"type":"P","label":"Plains"}},
-            {"terrain":{"type":"F","label":"Forest"}},
-            {"terrain":{"type":"M","label":"Mountains"}}
+            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"F"}},
+            {"terrain":{"type":"M"}}
         ],
         [
-            {"terrain":{"type":"P","label":"Plains"}},
-            {"terrain":{"type":"F","label":"Forest"}},
-            {"terrain":{"type":"M","label":"Mountains"}}
+            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"F"}},
+            {"terrain":{"type":"M"}}
         ],
         [
-            {"terrain":{"type":"P","label":"Plains"}},
-            {"terrain":{"type":"F","label":"Forest"}},
-            {"terrain":{"type":"M","label":"Mountains"}}
+            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"F"}},
+            {"terrain":{"type":"M"}}
         ]
     ]
 }

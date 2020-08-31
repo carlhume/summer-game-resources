@@ -1,20 +1,20 @@
 {
-    "id":112,
+    "id":115,
     "mapData": [
         [
-            {"terrain":{"type":"F","label":"Forest"}},
-            {"terrain":{"type":"P","label":"Plains"}},
-            {"terrain":{"type":"M","label":"Mountains"}}
+            {"terrain":{"type":"F"}},
+            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"M"}}
         ],
         [
-            {"terrain":{"type":"P","label":"Plains"}},
-            {"terrain":{"type":"M","label":"Mountains"}},
-            {"terrain":{"type":"F","label":"Forest"}}
+            {"terrain":{"type":"P"}},
+            {"terrain":{"type":"M"}},
+            {"terrain":{"type":"F"}}
         ],
         [
-            {"terrain":{"type":"M","label":"Mountains"}},
-            {"terrain":{"type":"F","label":"Forest"}},
-            {"terrain":{"type":"P","label":"Plains"}}
+            {"terrain":{"type":"M"}},
+            {"terrain":{"type":"F"}},
+            {"terrain":{"type":"P"}}
         ]
     ]
 }
